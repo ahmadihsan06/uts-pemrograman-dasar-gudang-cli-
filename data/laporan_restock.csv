@@ -1,0 +1,4 @@
+kode_barang,nama_barang,kategori,stok,min_stok,kekurangan_unit,estimasi_biaya_restock
+BRG-002,Kabel UTP Cat6 (Box),Jaringan,3,5,7,5950000.0
+BRG-003,SSD NVMe 512GB,Penyimpanan,4,6,7,4550000.0
+BRG-005,Kabel UTP Cat6 (Box) - Duplikat,Jaringan,2,3,6,5100000.0

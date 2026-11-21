@@ -1,0 +1,58 @@
+[
+  {
+    "kode_barang": "BRG-001",
+    "nama_barang": "Router WiFi Dual Band",
+    "kategori": "Jaringan",
+    "stok": 15,
+    "min_stok": 5,
+    "harga_satuan": 350000.0
+  },
+  {
+    "kode_barang": "BRG-002",
+    "nama_barang": "Kabel UTP Cat6 (Box)",
+    "kategori": "Jaringan",
+    "stok": 3,
+    "min_stok": 5,
+    "harga_satuan": 850000.0
+  },
+  {
+    "kode_barang": "BRG-003",
+    "nama_barang": "SSD NVMe 512GB",
+    "kategori": "Penyimpanan",
+    "stok": 4,
+    "min_stok": 6,
+    "harga_satuan": 650000.0
+  },
+  {
+    "kode_barang": "BRG-004",
+    "nama_barang": "Switch Gigabit 8-Port",
+    "kategori": "Jaringan",
+    "stok": 10,
+    "min_stok": 4,
+    "harga_satuan": 275000.0
+  },
+  {
+    "kode_barang": "BRG-005",
+    "nama_barang": "Kabel UTP Cat6 (Box) - Duplikat",
+    "kategori": "Jaringan",
+    "stok": 2,
+    "min_stok": 3,
+    "harga_satuan": 850000.0
+  },
+  {
+    "kode_barang": "BRG-006",
+    "nama_barang": "Casing",
+    "kategori": "Aksesoris",
+    "stok": 5,
+    "min_stok": 2,
+    "harga_satuan": 50000.0
+  },
+  {
+    "kode_barang": "BRG-007",
+    "nama_barang": "Keyboard",
+    "kategori": "Perangkat",
+    "stok": 5,
+    "min_stok": 6,
+    "harga_satuan": 50000.0
+  }
+]
