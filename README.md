@@ -1,4 +1,4 @@
-# Warehouse Stock & Restock Monitor CLI
+# Sistem Pemantau Stok Gudang & Peringatan Restock (CLI)
 
 Aplikasi command line (CLI) berbasis Python untuk mengelola data inventaris gudang, memvalidasi input, menentukan status stok otomatis, menghitung valuasi aset per kategori, serta mengekspor laporan restock ke format CSV.
 
