@@ -15,4 +15,6 @@ Aplikasi command line (CLI) berbasis Python untuk mengelola data inventaris guda
   │   └── laporan_restock.csv      # Hasil ekspor laporan peringatan restock (CSV)
   └── README.md                    # Dokumentasi proyek
 
-## 
+## Package & Dependency
+Python: versi 3.10 atau lebih baru.
+Dependency: Hanya menggunakan Python Standard Library (json, csv, os). Tidak memerlukan instalasi library eksternal.
